@@ -6,11 +6,11 @@ import WaveOverlay from '../components/WaveOverlay';
 
 const projects = [
   {
-    title: 'Travel Sync Pro',
+    title: 'Travel-Buddy',
     description: 'A travel booking platform with customizable trip packages, integrated dashboard, and real-time API updates.',
     image: 'https://images.unsplash.com/photo-1601909331597-c80bb4c948c2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEZhbWlseSUyMHZhY2F0aW9ufGVufDB8fDB8fHww',
     tech: ['React', 'Redux', 'Tailwind CSS', 'Axios'],
-    link: '#'
+    link: 'https://anushka7x.github.io/Travel/'
   },
   {
     title: 'Paradise Nursery',
@@ -20,7 +20,7 @@ const projects = [
     link: 'https://anushka7x.github.io/Nursery/'
   },
   {
-    title: 'Street Animal Care',
+    title: 'Pet-Care',
     description: 'Donation and request platform for street animal rescue and feeder support built with responsive UI.',
     image: 'https://themewagon.github.io/petsitting/images/image_2.jpg',
     tech: ['React', 'Framer Motion', 'Tailwind CSS'],
