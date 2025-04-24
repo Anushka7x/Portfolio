@@ -11,7 +11,7 @@ import theme from './theme';
 
 ReactDOM.render(
   <Provider store={store}>
-    <BrowserRouter>
+    <BrowserRouter basename="/Portfolio">
       <ThemeProvider theme={theme}>
         <App />
       </ThemeProvider>
